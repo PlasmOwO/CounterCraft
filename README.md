@@ -1,6 +1,7 @@
 # CounterCraft
 
-CounterCraft est une application web permettant d'ajouter et visualiser des counters personnalisés pour les champions de League of Legends.
+CounterCraft est une application web permettant d'ajouter et visualiser des counters personnalisés pour les champions de League of Legends.  
+La BDD est host sur Neon
 
 ## ✨ Fonctionnalités
 
